@@ -1,3 +1,4 @@
 backend\app\config\db.config.js
 /backend/node_modules
 .env
+backend/app/config/db.config.js
